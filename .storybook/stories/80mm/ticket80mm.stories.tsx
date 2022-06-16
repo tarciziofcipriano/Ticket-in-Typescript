@@ -16,12 +16,12 @@ export const example1: FunctionComponent<TicketProps> = () => {
           id: '08ec0f1f-0689-433a-99f4-3c78f800a567',
           category: TicketCategory.Admission,
           event: {
-            name: 'Marília Mendonça & Maiara e Maraisa',
+            name: 'Setanejo',
             subtitle: 'Todos os cantos',
             startAt: new Date('2021-10-23T23:00:00.000Z'),
             venue: {
-              name: 'Aticks Arena',
-              location: 'Av. Marechal Castelo Branco, 65, Campinas, São José, Santa Catarina',
+              name: 'Nova Arena',
+              location: 'Florianópolis - SC',
             },
           },
           name: 'Ingresso Pista Inteira',
@@ -60,7 +60,7 @@ export const example1: FunctionComponent<TicketProps> = () => {
             documentMasked: '999.•••.•••-99',
             phoneMasked: '(48) •••••-0000',
           },
-          issuer: 'Aticks Arena - CNPJ: 00.000.000/0000-00',
+          issuer: 'Nova Arena - CNPJ: 00.000.000/0000-00',
           createdAt: new Date(),
         })
       );
@@ -84,10 +84,10 @@ export const example2: FunctionComponent<TicketProps> = () => {
           id: '08ec0f1f-0689-433a-99f4-3c78f800a567',
           category: TicketCategory.Parking,
           event: {
-            name: 'Marília Mendonça & Maiara e Maraisa',
+            name: 'Setanejo',
             subtitle: 'Todos os cantos',
             venue: {
-              name: 'Aticks Arena',
+              name: 'Nova Arena',
             },
           },
           name: 'Estacionamento Coberto',

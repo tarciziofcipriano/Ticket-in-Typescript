@@ -20,14 +20,14 @@ export const example1: FunctionComponent<TicketProps> = () => {
             name: 'Baile de formatura Arquitetura e Urbanismo UNISUL',
             startAt: new Date('2021-10-23T23:00:00.000Z'),
             venue: {
-              name: 'Aticks Arena',
-              location: 'Av. Marechal Castelo Branco, 65, Campinas, São José, Santa Catarina',
+              name: 'Nova Arena',
+              location: 'Florianópolis - SC',
             },
           },
           name: 'Ingresso Baile',
           notes: [
-            'O evento será realizado no Espaço Arena. Acesso pela sala Cambirela 1A.',
-            'A Aticks Arena segue todos os protocolos Evento Seguro. Portaria S.E.S nº 1063 de 24 de setembro de 2021.'
+            'O evento será realizado no Espaço Arena.',
+            'A Nova Arena segue todos os protocolos Evento Seguro.'
           ],
           token: 'eyJhbGciOiJIUzI1NiIsImtpZCI6IjkxMmM0NDhhLTE4ZDktNDgwZC04M2I5LTFjNGUwNmRiMjZlMCJ9.eyJpZCI6IjBlNDQwNjM0LTI5YjEtNGU1Yi04YjJlLWYzYjA5YmUzMTAwNyIsImNpZCI6ImQwNGRmZTJjLTI0OTYtNDEwNi04ZDcxLWI3YzI3MWFiZWRlZCIsImFtdCI6eyJwcmMiOjEwMCwiZmVlIjoxMCwidHRsIjoxMTB9LCJ2ZGYiOiIyMDUwLTA2LTAyVDAwOjAwOjAwLjAwMFoiLCJ2ZHQiOiIyMDUwLTA2LTAzVDAwOjAwOjAwLjAwMFoiLCJpYXQiOiIyMDIxLTA2LTAxVDAwOjAwOjAwLjAwMFoifQ.awJT66aQDD78mnTVxQIGBzGY8YY_broMx1PMY412dyM',
           pricing: {},
@@ -77,13 +77,13 @@ export const example2: FunctionComponent<TicketProps> = () => {
             name: 'Baile de formatura Arquitetura e Urbanismo UNISUL',
             startAt: new Date('2021-10-23T23:00:00.000Z'),
             venue: {
-              name: 'Aticks Arena',
-              location: 'Av. Marechal Castelo Branco, 65, Campinas, São José, Santa Catarina',
+              name: 'Nova Arena',
+              location: 'Florianópolis - SC',
             },
           },
           name: 'Estacionamento',
           notes: [
-            'A Aticks Arena segue todos os protocolos Evento Seguro. Portaria S.E.S nº 1063 de 24 de setembro de 2021.'
+            'A Nova Arena segue todos os protocolos Evento Seguro.'
           ],
           token: 'eyJhbGciOiJIUzI1NiIsImtpZCI6IjkxMmM0NDhhLTE4ZDktNDgwZC04M2I5LTFjNGUwNmRiMjZlMCJ9.eyJpZCI6IjBlNDQwNjM0LTI5YjEtNGU1Yi04YjJlLWYzYjA5YmUzMTAwNyIsImNpZCI6ImQwNGRmZTJjLTI0OTYtNDEwNi04ZDcxLWI3YzI3MWFiZWRlZCIsImFtdCI6eyJwcmMiOjEwMCwiZmVlIjoxMCwidHRsIjoxMTB9LCJ2ZGYiOiIyMDUwLTA2LTAyVDAwOjAwOjAwLjAwMFoiLCJ2ZHQiOiIyMDUwLTA2LTAzVDAwOjAwOjAwLjAwMFoiLCJpYXQiOiIyMDIxLTA2LTAxVDAwOjAwOjAwLjAwMFoifQ.awJT66aQDD78mnTVxQIGBzGY8YY_broMx1PMY412dyM',
           pricing: {},
@@ -127,14 +127,14 @@ export const example3: FunctionComponent<TicketProps> = () => {
             name: 'Baile de formatura Arquitetura e Urbanismo UNISUL',
             startAt: new Date('2021-10-23T23:00:00.000Z'),
             venue: {
-              name: 'Aticks Arena',
-              location: 'Av. Marechal Castelo Branco, 65, Campinas, São José, Santa Catarina',
+              name: 'Nova Arena',
+              location: 'Florianópolis - SC',
             },
           },
           name: 'Ingresso Baile Professor',
           notes: [
-            'O evento será realizado no Espaço Arena. Acesso pela sala Cambirela 1A.',
-            'A Aticks Arena segue todos os protocolos Evento Seguro. Portaria S.E.S nº 1063 de 24 de setembro de 2021.'
+            'O evento será realizado no Espaço Arena.',
+            'A Nova Arena segue todos os protocolos Evento Seguro.'
           ],
           token: 'eyJhbGciOiJIUzI1NiIsImtpZCI6IjkxMmM0NDhhLTE4ZDktNDgwZC04M2I5LTFjNGUwNmRiMjZlMCJ9.eyJpZCI6IjBlNDQwNjM0LTI5YjEtNGU1Yi04YjJlLWYzYjA5YmUzMTAwNyIsImNpZCI6ImQwNGRmZTJjLTI0OTYtNDEwNi04ZDcxLWI3YzI3MWFiZWRlZCIsImFtdCI6eyJwcmMiOjEwMCwiZmVlIjoxMCwidHRsIjoxMTB9LCJ2ZGYiOiIyMDUwLTA2LTAyVDAwOjAwOjAwLjAwMFoiLCJ2ZHQiOiIyMDUwLTA2LTAzVDAwOjAwOjAwLjAwMFoiLCJpYXQiOiIyMDIxLTA2LTAxVDAwOjAwOjAwLjAwMFoifQ.awJT66aQDD78mnTVxQIGBzGY8YY_broMx1PMY412dyM',
           pricing: {},
